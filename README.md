@@ -1,17 +1,3 @@
----
-title: Data Visualization Intelligente
-emoji: 📊
-colorFrom: indigo
-colorTo: blue
-sdk: streamlit
-sdk_version: "1.40.0"
-app_file: app.py
-pinned: false
----
-
-# 📊 Data Visualization Intelligente
-
-Application web intelligente de data visualization pilotée par LLM pour le Master 2 BDIA (Big Data & Intelligence Artificielle).
 
 ## Description
 
