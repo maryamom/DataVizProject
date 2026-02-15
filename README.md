@@ -1,8 +1,8 @@
 ---
 title: Data Visualization Intelligente
 emoji: 📊
-colorFrom: blue
-colorTo: cyan
+colorFrom: indigo
+colorTo: blue
 sdk: streamlit
 sdk_version: "1.40.0"
 app_file: app.py
