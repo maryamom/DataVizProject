@@ -74,6 +74,8 @@ L'application sera accessible sur [http://localhost:8501](http://localhost:8501)
 
 ## Déploiement sur Hugging Face Spaces
 
+**Application en ligne :** [https://huggingface.co/spaces/MriemOmrani/DataViz](https://huggingface.co/spaces/MriemOmrani/DataViz)
+
 1. Créer un nouvel espace sur [Hugging Face Spaces](https://huggingface.co/spaces)
 2. Choisir le SDK **Streamlit**
 3. Cloner ce dépôt et pousser les fichiers

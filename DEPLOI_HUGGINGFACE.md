@@ -27,11 +27,10 @@ git commit -m "Deploy to HF Spaces"
 
 # Ajouter le remote Hugging Face (remplacez USER et SPACE_NAME)
 # Créez d'abord le Space sur HF, puis récupérez l'URL
-git remote add hf https://huggingface.co/spaces/USER/SPACE_NAME
+git remote add hf https://huggingface.co/spaces/MriemOmrani/DataViz
 
 # Pousser (HF utilise souvent "main" ou "master")
 git push hf main
-# ou si votre branche s'appelle master : git push hf master
 ```
 
 ### Option B : Upload manuel
@@ -103,5 +102,4 @@ data-viz-intelligent/
 
 ## Lien vers l'app
 
-Après déploiement, votre app sera accessible à :
-`https://huggingface.co/spaces/VOTRE_USER/data-viz-intelligent`
+Application déployée : **https://huggingface.co/spaces/MriemOmrani/DataViz**
