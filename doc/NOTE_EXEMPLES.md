@@ -1,6 +1,5 @@
 # Note – 3 exemples de problématiques / datasets et résultats
 
-Rendu du projet Data Visualization Intelligente – Master 2 BDIA.
 
 ---
 
@@ -52,7 +51,7 @@ Par exemple : **Graphique à barres – Taux de survie par classe**, qui illustr
 
 ---
 
-## Exemple 3 : Style de musique et ventes (Spotify)
+## Exemple 3 : Style de musique et ventes 
 
 ### Problématique
 **Quel style de musique maximise le nombre de ventes pour une entreprise de production musicale ?**
